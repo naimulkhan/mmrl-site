@@ -17,6 +17,7 @@
   },
   "optionalDependencies": {
     "@parcel/watcher-linux-x64-glibc": "*",
+    "@tailwindcss/oxide-linux-x64-gnu": "*",
     "fsevents": "^2.3.3",
     "lightningcss-linux-x64-gnu": "*"
   }
